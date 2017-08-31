@@ -47,7 +47,7 @@ This week we need to answer three questions to achieve navigation through the ob
     2.Should the robot follow the wall to the right or the left?
     3.If the robot is in state “A” and event “2” becomes true, then to which state should the robot switch?
 
-![Robot Full Navigation 1](./images/Robot Full Navigation 1.jpg)
+![Navigation-1](./images/Navigation-1.jpg)
 
 ![Robot Full Navigation 2](./images/Robot Full Navigation 2.jpg)
 
