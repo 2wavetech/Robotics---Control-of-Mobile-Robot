@@ -46,6 +46,8 @@ This week we need to answer three questions to achieve navigation through the ob
     1.Is the robot making progress towards the goal?
     2.Should the robot follow the wall to the right or the left?
     3.If the robot is in state “A” and event “2” becomes true, then to which state should the robot switch?
+    
+### My final result as shown below:
 
 ![Navigation-1](./images/Navigation-1.jpg)
 
