@@ -42,6 +42,7 @@ This week we will add a new controller to follow walls.
     
 ## 7. Navigation
 This week we need to answer three questions to achieve navigation through the obstacle course:
+
     1.Is the robot making progress towards the goal?
     2.Should the robot follow the wall to the right or the left?
     3.If the robot is in state “A” and event “2” becomes true, then to which state should the robot switch?
