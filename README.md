@@ -47,11 +47,19 @@ This week we need to answer three questions to achieve navigation through the ob
     3.If the robot is in state “A” and event “2” becomes true, then to which state should the robot switch?
 
 ![Robot Full Navigation 1](./images/Robot Full Navigation 1.jpg)
+
 ![Robot Full Navigation 2](./images/Robot Full Navigation 2.jpg)
+
 ![Robot Full Navigation 3](./images/Robot Full Navigation 3.jpg)
+
 ![Robot Full Navigation 4](./images/Robot Full Navigation 4.jpg)
+
 ![Robot Full Navigation 5](./images/Robot Full Navigation 5.jpg)
+
 ![Robot Full Navigation 6](./images/Robot Full Navigation 6.jpg)
+
 ![Robot Full Navigation 7](./images/Robot Full Navigation 7.jpg)
+
 ![Robot Full Navigation 8](./images/Robot Full Navigation 8.jpg)
+
 
