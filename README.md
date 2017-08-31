@@ -49,18 +49,18 @@ This week we need to answer three questions to achieve navigation through the ob
 
 ![Navigation-1](./images/Navigation-1.jpg)
 
-![Robot Full Navigation 2](./images/Robot Full Navigation 2.jpg)
+![Navigation-2](./images/Navigation-2.jpg)
 
-![Robot Full Navigation 3](./images/Robot Full Navigation 3.jpg)
+![Navigation-3](./images/Navigation-3.jpg)
 
-![Robot Full Navigation 4](./images/Robot Full Navigation 4.jpg)
+![Navigation-4](./images/Navigation-4.jpg)
 
-![Robot Full Navigation 5](./images/Robot Full Navigation 5.jpg)
+![Navigation-5](./images/Navigation-5.jpg)
 
-![Robot Full Navigation 6](./images/Robot Full Navigation 6.jpg)
+![Navigation-6](./images/Navigation-6.jpg)
 
-![Robot Full Navigation 7](./images/Robot Full Navigation 7.jpg)
+![Navigation-7](./images/Navigation-7.jpg)
 
-![Robot Full Navigation 8](./images/Robot Full Navigation 8.jpg)
+![Navigation-8](./images/Navigation-8.jpg)
 
 
